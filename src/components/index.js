@@ -1,3 +1,3 @@
-import Button from './Button/Button.js';
+import Button from './Button/Button';
 
 export { Button };
