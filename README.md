@@ -1,2 +1,2 @@
 # MUI-React-CRM
-React、Redux、material-ui、webpackを使用したスターターキット
+React16、Redux、material-ui、webpack4を使用したスターターキット
